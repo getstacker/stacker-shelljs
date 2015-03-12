@@ -1,0 +1,28 @@
+{
+  "name": "stacker-shelljs",
+  "version": "0.1.0",
+  "description": "Stacker shelljs plugin",
+  "main": "index.js",
+  "engines": {
+    "iojs": ">= 1.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/getstacker/stacker-shelljs.git"
+  },
+  "keywords": [
+    "stacker",
+    "plugin",
+    "shelljs",
+    "shell"
+  ],
+  "author": "Joe Johnston <joe@simple10.com> (http://www.simple10.com/)",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/getstacker/stacker-shelljs/issues"
+  },
+  "homepage": "https://github.com/getstacker/stacker-shelljs",
+  "dependencies": {
+    "shelljs": "^0.3.0"
+  }
+}
